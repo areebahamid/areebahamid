@@ -1,7 +1,6 @@
 <p align="center">
- <img src="[https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHU4NDhxdTBiZTUxYjJ1ajRpenJqcmMya3V1Z21oZWZub2wzemJqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qhLM9oet19X7LmDhCJ/giphy.gif)" width="100%" alt="Night City View">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHU4NDhxdTBiZTUxYjJ1ajRpenJqcmMya3V1Z21oZWZub2wzemJqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qhLM9oet19X7LmDhCJ/giphy.gif" width="100%" alt="Night City View">
 </p>
-
 
 
 <h1 align="center">Hey, I'm Areeba Hamid</h1>
