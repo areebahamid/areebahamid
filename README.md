@@ -1,11 +1,12 @@
 <p align="center">
   <img
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RpdDlrZmQ5cmR3bHJsd29kZXRkYjdybTZ5dnd6dzFhMmdocHI5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.gif"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm8zeGh3Nzd1bndhaDlweWIzcWdoZHdsMGs2dmptYzk0bHRhbXBlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/keWdgl62zjk5Qg0wSe/giphy.gif"
     width="100%"
-    height="120"
-    alt="Night City View"
+    height="100"
+    alt="GIF"
   >
 </p>
+
 
 
 
