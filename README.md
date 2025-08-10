@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="100%" alt="Night City View">
+ <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" alt="Night City View">
 </p>
 
 
