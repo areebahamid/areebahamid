@@ -1,10 +1,10 @@
-<!-- Personalized Coding Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2a/f0/61/2af0612e8d6b91f93c924aa1f8a3b6f2.gif" width="100%" alt="Coding Banner">
+  <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="100%" alt="Night City View">
 </p>
 
+<!-- Animated Wave Emoji -->
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/10/04/03/56/03-56-31-120_512.gif" width="100%" alt="Night City View">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
 </p>
 
 
