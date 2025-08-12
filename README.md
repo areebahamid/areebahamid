@@ -1,4 +1,4 @@
-<p align="center">
+my github streak isnt loading <p align="center">
   <img
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm8zeGh3Nzd1bndhaDlweWIzcWdoZHdsMGs2dmptYzk0bHRhbXBlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/keWdgl62zjk5Qg0wSe/giphy.gif"
     width="100%"
@@ -6,6 +6,10 @@
     alt="GIF"
   >
 </p>
+
+
+
+
 
 <h1 align="center">Hey, I'm Areeba Hamid</h1>
 <h3 align="center">💻 Full Stack Developer | 📱 React Native Mobile App Developer | 🎨 UI/UX Designer | 🎓 Computer Science</h3>
@@ -56,15 +60,7 @@
 ## 📊 GitHub Highlights  
 
 <p align="center">
-  <!-- Main Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=areebahamid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <!-- Fallback Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=areebahamid&theme=tokyonight&hide_border=true" alt="GitHub Streak Fallback" />
-</p>
-<p align="center">
-  <!-- Top Languages -->
+  <img src="https://streak-stats.demolab.com?user=areebahamid&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebahamid&layout=compact&theme=tokyonight" />
 </p>
 
