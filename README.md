@@ -7,10 +7,6 @@
   >
 </p>
 
-
-
-
-
 <h1 align="center">Hey, I'm Areeba Hamid</h1>
 <h3 align="center">💻 Full Stack Developer | 📱 React Native Mobile App Developer | 🎨 UI/UX Designer | 🎓 Computer Science</h3>
 
@@ -60,7 +56,15 @@
 ## 📊 GitHub Highlights  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=areebahamid&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Main Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=areebahamid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <!-- Fallback Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=areebahamid&theme=tokyonight&hide_border=true" alt="GitHub Streak Fallback" />
+</p>
+<p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebahamid&layout=compact&theme=tokyonight" />
 </p>
 
