@@ -12,7 +12,7 @@
 
 
 <h1 align="center">Hey, I'm Areeba Hamid</h1>
-<h3 align="center">💻 Full Stack Developer | 📱 React Native Mobile App Developer | 🎨 UI/UX Designer | 🎓 Computer Science</h3>
+<h3 align="center">💻 FrontEnd Developer | 📱 React Native Mobile App Developer | 🎨 UI/UX Designer | 🎓 Computer Science</h3>
 
 <p align="center">
   <em>I craft beautiful, functional, and scalable digital experiences by blending <b>design</b>, <b>technology</b>, and <b>mobile innovation</b>.</em>
