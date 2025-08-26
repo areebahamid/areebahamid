@@ -1,6 +1,6 @@
  <p align="center">
   <img
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm8zeGh3Nzd1bndhaDlweWIzcWdoZHdsMGs2dmptYzk0bHRhbXBlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/keWdgl62zjk5Qg0wSe/giphy.gif"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2llZWVuZHJ2YmJocWRuYXdoeGxmaDYyc2E1NHIwYm5hMzNjNHBnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"
     width="100%"
     height="190"
     alt="GIF"
