@@ -11,7 +11,8 @@
 
 
 
-<h1 align="center">Hey, I'm Areeba Hamid</h1>
+<h1 align="center">Hey, I'm Areeba Hamid 
+!</h1>
 <h3 align="center">💻 FrontEnd Developer | 📱 React Native Mobile App Developer | 🎨 UI/UX Designer | 🎓 Computer Science</h3>
 
 <p align="center">
